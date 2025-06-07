@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Sergei Kasimov and I'm a Java Backend Developer, from Samara</h2>
+<h2 align="left">Hi! My name is Sergei Kasimov and I'm a Java Backend Developer</h2>
 
 ###
 
